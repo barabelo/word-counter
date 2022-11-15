@@ -1,5 +1,6 @@
 package br.inatel;
 
+import br.inatel.model.Frase;
 import org.junit.BeforeClass;
 import org.junit.Test;
 

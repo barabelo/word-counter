@@ -1,4 +1,4 @@
-package br.inatel;
+package br.inatel.model;
 
 import org.jetbrains.annotations.Contract;
 import org.jetbrains.annotations.NotNull;
@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Frase {
-    private String conteudo;
+    private final String conteudo;
 
     public Frase(String conteudo) {
         this.conteudo = conteudo;
