@@ -19,5 +19,5 @@ public class Frase {
         String temp = conteudo.trim().replaceAll("[,.;:?!]", " ");
         return new ArrayList<>(Arrays.asList(temp.split(" +")));
     }
-    
+
 }
