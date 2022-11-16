@@ -1,5 +1,5 @@
 # Word Counter
-Um programa que conta as palavras de uma frase de acordo com vários critérios. Sendo eles, a quantidade total de palavras, a quantidade de palavras que possuem uma quantidade par de caracteres e a quantidade de palavras que iniciam com letra maiúscula.
+Um programa que conta as palavras de uma frase de acordo com vários critérios. Sendo eles: a quantidade total de palavras, a quantidade de palavras que possuem uma quantidade par de caracteres e a quantidade de palavras que iniciam com letra maiúscula.
 
 ## Requisitos
 - [Java JDK 17](https://adoptium.net/).
