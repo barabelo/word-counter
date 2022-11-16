@@ -22,7 +22,7 @@ Para executar os testes unitários do projeto, digite o comando:
 2. Digite o(s) comando(s):
    - PowerShell:
 
-      ```java -jar .\word-counter-1.0-SNAPSHOT-jar-with-dependencies.jar```
+      ```java -jar .\target\word-counter-1.0-SNAPSHOT-jar-with-dependencies.jar```
    - Prompt de Comando:
    
       ```cd target```
